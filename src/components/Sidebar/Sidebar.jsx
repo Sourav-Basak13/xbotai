@@ -63,7 +63,6 @@ export default function Sidebar({ setChat, closeMenu }) {
               New Chat
             </Typography>
           </Stack>
-
           <AddCommentIcon sx={{ color: "text.primary" }} />
         </Stack>
       </Link>
